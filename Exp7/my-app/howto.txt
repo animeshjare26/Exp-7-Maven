@@ -26,7 +26,7 @@ GitHub hook trigger for GITScm polling
 
 **Build
 Root POM
-Exp7\Exp7\my-app/pom.xml
+Exp7/my-app/pom.xml
 
 Goals and options
 clean package
