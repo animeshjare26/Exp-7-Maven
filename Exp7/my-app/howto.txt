@@ -2,22 +2,22 @@
 
 GitHub project
 Project url
-https://github.com/Surya86899/surdevopsya/
+https://github.com/animeshjare26/Exp-7-Maven.git
 
 **Source Code Management
 Git
 Repositories
 Repository URL
-https://github.com/Surya86899/surdevopsya
+https://github.com/animeshjare26/Exp-7-Maven.git
 
 Add Repository
 Branches to build
 Branch Specifier (blank for 'any')
-*/main
+*/master
 
 Additional Behaviours
 Check out to a sub-directory
-Exp7
+Exp7-Maven
 
 **Build Triggers
 Tick Mark
